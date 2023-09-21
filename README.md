@@ -2,4 +2,6 @@
 Crud with dotnet 7.
 
 # Run
-´dotnet run --launch-profile https´
+```
+dotnet run --launch-profile https
+```
